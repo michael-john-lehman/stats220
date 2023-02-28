@@ -13,11 +13,7 @@ This purpose of this `Repository` is to assist my `Studies` of **Computer** and 
 
 ## **Course Description**
 
-<div style='float:left; height:50px;'>
-
 [![](assets/University_of_Auckland_logo.png)](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1233)
-
- </div>
 
 <p style="margin-left:200px;"> 
 Explores the processes of data acquisition, data storage and data processing using current computer technologies. Students will gain experience with and understanding of the processes of data acquisition, storage, retrieval, manipulation, and management. Students will also gain experience with and understanding of the computer technologies that perform these processes. 
