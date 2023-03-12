@@ -29,9 +29,9 @@ Explores the processes of data acquisition, data storage and data processing usi
 
 
 1. Project 1 
-    - Status : WIP 
+    - Status : Completed
 2. Project 2 
-    - Status : ...
+    - Status : WIP
 3. Project 3 
     - Status : ...
 4. Project 4 
